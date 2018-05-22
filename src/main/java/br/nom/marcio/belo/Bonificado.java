@@ -1,5 +1,6 @@
 package br.nom.marcio.belo;
 
+
 import java.math.BigDecimal;
 
 public class Bonificado extends Funcionario
